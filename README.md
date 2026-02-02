@@ -23,7 +23,6 @@ Le site est une plateforme "Single Page" (SPA) performante, intégrant des secti
 
 ## 📁 Structure du Projet
 ```text
-v2_html/
 ├── index.html          # Page principale du portfolio
 ├── 404.html            # Page d'erreur personnalisée
 ├── script.js           # Toute la logique d'animation et de navigation
@@ -47,3 +46,4 @@ v2_html/
 
 ---
 © 2024 Martin Raissa. Tous droits réservés.
+
